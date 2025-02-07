@@ -1,7 +1,7 @@
-Instrucciones de Uso, una vez clonado el repositorio>
-- Ubique la carpeta testFrontendCojaliTelematics donde clono / descargo el proyecto
-- Ejecute una terminal de comandos cualquiera (CMD, PowerShell, Git, etc.)
-- En la terminar ubiquese dentro de la carpeta con cd testFrontendCojaliTelematics
+Instrucciones de Uso, una vez clonado el repositorio:
+- Ubique la carpeta testFrontendCojaliTelematics donde se clono / descargo el proyecto
+- Ejecute una terminal de comandos cualquiera `(CMD, PowerShell, Git, etc.)`
+- En la terminar ubiquese dentro de la carpeta con: `cd testFrontendCojaliTelematics`
 - Luego ejecute este comando para instalar las dependencias necesarias para el proyecto: `npm install`
 - Luego ejecute este comando para ejecutar el proyecto: `npm run dev` y en su navegador navegue al URL que se genera
 
